@@ -1,0 +1,13 @@
+.container{
+    padding: 50px;
+    text-align: center;
+    height: 2000px;
+}
+button{
+    margin: 30px;
+    width: 130px ;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+}
